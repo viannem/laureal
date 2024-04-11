@@ -756,6 +756,11 @@ section {
 /*--------------------------------------------------------------
 # Portfolio
 --------------------------------------------------------------*/
+.portfolio .section-title p {
+  color: #041ca7;
+}
+
+
 .portfolio .portfolio-item {
   margin-bottom: 30px;
 }
