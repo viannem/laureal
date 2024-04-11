@@ -797,6 +797,9 @@ section {
   overflow: hidden;
   z-index: 1;
   background: rgba(21, 21, 21, 0.6);
+  width: 80%;
+  /* float: right;  */
+  /* margin-left: 80px; */
 }
 
 .portfolio .portfolio-wrap::before {
@@ -814,6 +817,8 @@ section {
 
 .portfolio .portfolio-wrap img {
   transition: all ease-in-out 0.3s;
+ 
+
 }
 
 .portfolio .portfolio-wrap .portfolio-info {
