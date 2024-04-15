@@ -559,6 +559,13 @@ section {
   color: #041ca7;
 }
 
+.about .content h2 {
+  font-weight: 900;
+  font-size: 28px;
+  font-family: "Poppins", sans-serif;
+  color: #041ca7;
+}
+
 .about .content ul {
   list-style: none;
   padding: 0;
